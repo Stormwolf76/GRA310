@@ -1,0 +1,31 @@
+body {background-image: url('/images/menubackground.jpg')}
+h1 { font-family: athelas, serif;
+font-style: normal;
+font-weight: 400; color: #41393d; text-align: center}
+ 
+
+h2 
+{ font-family: athelas, serif;
+font-style: normal;
+font-weight: 400; color: #41393d; text-align: center}
+p { font-family: athelas, serif;
+font-style: normal;
+font-weight: 400; color: #41393d; text-align:center }
+#content {
+  float: right ;
+  width: 60% ;
+}
+#navbar {
+  float: right;
+  width: 40%;
+}
+div.image1 {
+   content:
+url('/IMAGES/TOWNlogo.jpg') }
+div.image {
+   content: url('/images/bowlwithsauces.jpg');
+    
+    
+    
+        
+       
